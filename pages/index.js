@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Fridge coin" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Im good at writing code but bad at writing websites <code>"https://tinyurl.com/FridgeCoin"</code>
         </p>
       </main>
 
