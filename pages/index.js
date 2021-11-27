@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Fridge coin" />
         <p className="description">
-          Im good at writing code but bad at writing websites <code>"https://tinyurl.com/FridgeCoin"</code>
+          0x832f266703942824316567cf6983c6adb28b6cf6 <code>"Same value as shiba, but 0.0001 of it circulation%"</code>
         </p>
       </main>
 
