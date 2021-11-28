@@ -6,15 +6,15 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Jaffa Coin!</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Fridge coin" />
+        <Header title="Jaffa coin" />
         <p className="description">
          
-          0x832f266703942824316567cf6983c6adb28b6cf6 <code>"Same value as shiba, but 0.0001 of it circulation% nothing more to say:)"</code>
+          0x53efc5b94b4ce81eae13fb7af13634794ddc2f73 <code>"Less value as shiba, but 0.0001 of it circulation% nothing more to say:)"</code>
         </p>
       </main>
 
